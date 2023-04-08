@@ -1,48 +1,48 @@
 {
     "books": [{
             "id": 1,
-        "image": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-        "name": "Harry Potter and the Philosopher's Stone",
-        "author": "J. K. Rowling",
-        "genre": "fiction",
-        "edition": "2021",
-        "publisher": "Bloomsbury",
-        "cost": "1299",
-        "borrowed": false
+            "image": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+            "name": "Harry Potter and the Philosopher's Stone",
+            "author": "J. K. Rowling",
+            "genre": "fiction",
+            "edition": "2021",
+            "publisher": "Bloomsbury",
+            "cost": "1299",
+            "borrowed": false
         }, {
             "name": "Harry Potter and the Secrets of Chambers",
             "image": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-        "author": "J. K. Rowling",
-        "genre": "Fiction",
-        "edition": "2021",
-        "publisher": "Bloomsbury",
-        "cost": "1500",
-        "id": 2
+            "author": "J. K. Rowling",
+            "genre": "Fiction",
+            "edition": "2021",
+            "publisher": "Bloomsbury",
+            "cost": "1500",
+            "id": 2
         }, {
             "name": "Harry Potter and the Secrets of Chambers",
             "image": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-            "auther": "J. K. Rowling",
+            "author": "J. K. Rowling",
             "genre": "History",
             "edition": "2022",
             "publisher": "Bloomsbury",
             "cost": "20000",
             "id": 3
         },
-      {
-          "name": "harry potter",
-          "image": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-          "auther": "J.K",
-          "genre": "Fiction",
-          "edition": "2020",
-          "publisher": "Bloomsburry",
-          "cost": "20000",
-          "borrowed": false,
-        "id": 5
+        {
+            "name": "harry potter",
+            "image": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+            "author": "J.K",
+            "genre": "Fiction",
+            "edition": "2020",
+            "publisher": "Bloomsburry",
+            "cost": "20000",
+            "borrowed": false,
+            "id": 5
         }
     ],
     "users": [{
         "id": 1,
         "email": "harry@gmail.com",
         "password": 123
-      }]
-      }
+    }]
+    }
